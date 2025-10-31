@@ -2,7 +2,6 @@
 
 // Desafio MateCheck - Movimentação de Peças com Menu
 // Código funcional com loops, switch e movimentação das peças
-// Comentarios com toque humano, erros de pontuação leves, português 90% correto
 
 int main() {
     const int bispo_casas = 5;   // bispo vai mover 5 casas
